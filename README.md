@@ -38,6 +38,10 @@ Once installed, just ask Claude something like:
 
 `assets/report-template.docx` ships as a **genuinely blank** pandoc reference template — page setup, header, and named styles (`Title`, `Heading1`, `Heading2`, table styles), no body content and no organisation branding. Swap in your own organisation's branded template (any `.docx` with matching style names works) before using this for real reports.
 
+## Using this outside Claude
+
+Nothing here is Claude-specific — `trend-report/SKILL.md` is a plain instruction file describing the drafting pipeline. To use it with ChatGPT or another AI assistant, give it this repo's URL (or paste in `SKILL.md`) and ask it to set itself up and run the pipeline on your topic. There's nothing to schedule — each report is a one-shot request, so any assistant's ordinary chat mode is enough.
+
 ## Repository structure
 
 ```
