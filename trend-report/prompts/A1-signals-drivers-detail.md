@@ -85,21 +85,27 @@ A brief paragraph noting patterns: which domains dominate? What's underdeveloped
 ## Macro-drivers (PESTEL)
 
 **Political**
+
 - **[Driver name] (H1/H2/H3)** — [Explanation with citation]
 
 **Economic**
+
 - **[Driver name] (H1/H2/H3)** — [Explanation with citation]
 
 **Social**
+
 - **[Driver name] (H1/H2/H3)** — [Explanation with citation]
 
 **Technological**
+
 - **[Driver name] (H1/H2/H3)** — [Explanation with citation]
 
 **Environmental**
+
 - **[Driver name] (H1/H2/H3)** — [Explanation with citation]
 
 **Legal**
+
 - **[Driver name] (H1/H2/H3)** — [Explanation with citation]
 
 ## Signals & drivers analysis

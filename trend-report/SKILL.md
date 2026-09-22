@@ -372,5 +372,5 @@ When sharing completion with `present_files`, include:
 | `PROJECT.md` | Reusable project brief template |
 | `prompts/` | Section-by-section prompt pack |
 | `assets/report-template.docx` | Word reference template (ships blank — swap in your own organisation's branded template, or replace this file directly) |
-| `examples/` | Completed example project |
+| `examples/` | A completed project file, and the full assembled report it produced |
 | `references/word-export.md` | Export quality checks |

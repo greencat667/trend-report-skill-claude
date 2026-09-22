@@ -13,7 +13,7 @@ Give it a topic, scope, and audience, and it will:
 
 The prompt pack enforces a consistent voice throughout: first-person plural, plain English, no unlinked citations, no consultant-speak — with before/after examples in each prompt file showing exactly what to avoid.
 
-See `examples/community-tool-libraries.md` for a full worked example of a completed project file.
+See `examples/community-tool-libraries-project.md` for a completed project file, and `examples/community-tool-libraries-report.md` for the full, real report the skill produced from it — genuinely researched, with 61 real linked citations, not placeholder text.
 
 ## Installation
 
@@ -49,7 +49,8 @@ trend-report-skill-claude/
 │   ├── assets/
 │   │   └── report-template.docx       # Blank pandoc reference template
 │   ├── examples/
-│   │   └── community-tool-libraries.md  # Completed example project file
+│   │   ├── community-tool-libraries-project.md  # Completed project file (the input)
+│   │   └── community-tool-libraries-report.md   # The full report it produced (the output)
 │   └── references/
 │       └── word-export.md             # Export quality checks
 ├── README.md
