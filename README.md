@@ -13,7 +13,7 @@ Give it a topic, scope, and audience, and it will:
 
 The prompt pack enforces a consistent voice throughout: first-person plural, plain English, no unlinked citations, no consultant-speak — with before/after examples in each prompt file showing exactly what to avoid.
 
-See `examples/community-tool-libraries-project.md` for a completed project file, and `examples/community-tool-libraries-report.md` for the full, real report the skill produced from it — genuinely researched, with 61 real linked citations, not placeholder text.
+See `examples/community-tool-libraries-project.md` for a completed project file, and `examples/community-tool-libraries-report.md` for the report the skill produced from it, including 61 linked citations.
 
 ## Installation
 
